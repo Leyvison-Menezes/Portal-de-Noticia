@@ -52,7 +52,7 @@ Projeto desenvolvido como parte da **formação Fullstack da Rocketseat**, com f
 
 3. Abra o arquivo `index.html` no navegador para visualizar a página.
 
-Ou acesse diretamente pelo GitHub Pages (se publicado): 👉 [Ver página online](https://leyvison-menezes.github.io/Portal-de-Noticias)
+Ou acesse diretamente pelo GitHub Pages (se publicado): 👉 [Ver página online](https://leyvison-menezes.github.io/Portal-de-Noticia)
 
 ---
 
