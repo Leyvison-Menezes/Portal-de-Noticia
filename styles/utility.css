@@ -13,6 +13,9 @@
 .gap-16{
     gap: 16px;
 }
+.gap-32{
+    gap: 32px;
+}
 
 .txt-2xl{
     font: var(--h1);
